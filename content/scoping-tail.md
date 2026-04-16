@@ -1,5 +1,5 @@
 ---
-title: Scoping tail
+title: "Scoping tail"
 publish: true
 ---
 

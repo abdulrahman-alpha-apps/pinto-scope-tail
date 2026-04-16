@@ -1,5 +1,5 @@
 ---
-title: CLAUDE
+title: "CLAUDE"
 publish: true
 ---
 
